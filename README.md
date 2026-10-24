@@ -1,2 +1,0 @@
-# HDGuda.github.io
-Hitstar
